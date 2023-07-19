@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjectHolos.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+				<key>dateExpires</key>
+				<string>15/01/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+						<key>dateExpires</key>
+						<string>15/01/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GTMSessionFetcher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YRN9C5239X</string>
+						<key>name</key>
+						<string>Punam Agrawal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+						<key>dateExpires</key>
+						<string>15/01/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YRN9C5239X</string>
+						<key>name</key>
+						<string>Punam Agrawal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+						<key>dateExpires</key>
+						<string>15/01/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftSpinner.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YRN9C5239X</string>
+						<key>name</key>
+						<string>Punam Agrawal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+						<key>dateExpires</key>
+						<string>15/01/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>leveldb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YRN9C5239X</string>
+						<key>name</key>
+						<string>Punam Agrawal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B451C1BBACAD1ABAFBF0A78971EE23F279AF2DAB</string>
+						<key>dateExpires</key>
+						<string>15/01/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YRN9C5239X</string>
+						<key>name</key>
+						<string>Punam Agrawal</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YRN9C5239X.ojassethi.ProjectHolos</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YRN9C5239X</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YRN9C5239X.ojassethi.ProjectHolos</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ProjectHolos.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9fa613f6-e265-487d-a389-4ebd7b7c1450</string>
+				<key>name</key>
+				<string>ProjectHolosDevlopment</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YRN9C5239X</string>
+				<key>name</key>
+				<string>Punam Agrawal</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
